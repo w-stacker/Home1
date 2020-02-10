@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px){
+
+body {
+    background-color: #333;
+    text-align: center;
+}
+
+.wrapped{
+    width:600 px;
+}
+
+div{
+    color: green;
+    text-align: center;
+    float: left;
+}
+
+
+}
+
+body {background-color: blue;
+    
+}
+
+div {border: 50px;
+}
